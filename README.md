@@ -1,5 +1,6 @@
 # Pseudocode of URL Shortener Design
 由於Node.js語法經驗不多，因此以演算法形式表達個人思考邏輯，盼能藉此讓貴公司了解本人充滿熱忱的心意。
+此專案檔案還含有HTTP Server之建置。
 
 # create shorten URL
 input origin URL
